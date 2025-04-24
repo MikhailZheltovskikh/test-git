@@ -1,6 +1,6 @@
 function generateRandomPassword(options = {}) {
     const {
-      length = 12,
+      length = 12100,
       includeNumbers = true,
       includeSymbols = true,
       includeUppercase = true,
